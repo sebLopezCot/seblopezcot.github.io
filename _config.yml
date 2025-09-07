@@ -13,7 +13,7 @@ title: Sebastian Lopez-Cot # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Sebastian Lopez-Cot
-headline: Senior Machine Learning / Perception Engineer @ Aurora Innovations
+headline: Senior Machine Learning / Perception Engineer @ Aurora Innovations<br/>Tampa, FL (Remote)
 description: >- # dont remove this line. this will ignore all new lines until the next section
   <ul>
     <li>Bachelors and Masters Degrees from MIT in Electrical Engineering & Computer Science</li>
@@ -37,8 +37,8 @@ resume-url: #https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/v
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/sebastian-lopez-cot-33b069b1/
-  github: https://github.com/sebLopezCot/
+  linkedin: sebastian-lopez-cot-33b069b1
+  github: sebLopezCot
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
