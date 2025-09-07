@@ -13,7 +13,7 @@ title: Sebastian Lopez-Cot # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Sebastian Lopez-Cot
-headline: <b>Senior Machine Learning / Perception Engineer @ Aurora Innovations</b><br/><h4>Tampa, FL (Remote)</h4>
+headline: Senior Machine Learning / Perception Engineer @ Aurora Innovations<br/><span>Tampa, FL (Remote)</span>
 description: >- # dont remove this line. this will ignore all new lines until the next section
   <ul>
     <li>Bachelors and Masters Degrees from MIT in Electrical Engineering & Computer Science</li>
