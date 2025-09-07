@@ -15,13 +15,15 @@ title: Sebastian Lopez-Cot # This is what shows up in the tab of the browser
 name: Sebastian Lopez-Cot
 headline: Senior Machine Learning / Perception Engineer @ Aurora Innovations
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  - Bachelors and Masters Degrees from MIT in Electrical Engineering & Computer Science
-  - 10+ years of experience in robotics and software engineering
-  - 5+ years of industry experience in machine learning for self-driving vehicles (Uber ATG, Aurora)
-  - 100+ citations on reinforcement learning academic papers
-  - 20+ peer reviews in machine learning academic conferences
-  - 3+ years of mentoring + fundraising for FIRST robotics teams in the USA
-  - 2+ years of building a video conferencing start-up from scratch
+  <ul>
+    <li>Bachelors and Masters Degrees from MIT in Electrical Engineering & Computer Science</li>
+    <li>10+ years of experience in robotics and software engineering</li>
+    <li>5+ years of industry experience in machine learning for self-driving vehicles (Uber ATG, Aurora)</li>
+    <li>100+ citations on reinforcement learning academic papers</li>
+    <li>20+ peer reviews in machine learning academic conferences</li>
+    <li>3+ years of mentoring + fundraising for FIRST robotics teams in the USA</li>
+    <li>2+ years of building a video conferencing start-up from scratch</li>
+  </ul>
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
