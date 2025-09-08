@@ -7,12 +7,9 @@ main-image: /20250226_215055.jpg
 ---
 
 {% include image-gallery.html images="20250226_211654.jpg" height="400" %}
-{% include image-gallery.html images="20250226_213746.jpg" height="400" %}
-{% include image-gallery.html images="20250226_214110.jpg" height="400" %}
 {% include image-gallery.html images="20250226_215055.jpg" height="400" %}
-{% include image-gallery.html images="20250226_225915.jpg" height="400" %}
 {% include image-gallery.html images="20250424_160034.jpg" height="400" %}
-{% include image-gallery.html images="20250424_164015.jpg" height="400" %}
 {% include image-gallery.html images="20250424_180155.jpg" height="400" %}
 {% include image-gallery.html images="20250424_180524.jpg" height="400" %}
+{% include image-gallery.html images="20250226_213746.jpg" height="800" %}
 
