@@ -723,6 +723,8 @@ footer p {
 .post-view .content {
     padding: 0 50px;
     border-radius: 10px;
+    margin: 0 auto;
+    max-width: 920px;
 }
  
 .post-view .content .image-gallery {
@@ -741,6 +743,8 @@ footer p {
     max-width: 100%;
     object-fit: contain;
     align-self: flex-start;
+    border-radius: 6px;
+    margin: 10px auto;
 }
   
 .post-view .content  a {
