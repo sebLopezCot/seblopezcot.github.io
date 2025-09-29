@@ -1,0 +1,23 @@
+<!-- SECTION 4: blog -->
+<section id="blog" class="blog-grid-section">
+    <h2>Blog</h2>
+ 
+    <div class="grid-container">
+        {% for item in site.posts %}
+    <a href="{{ item.url }}" class="blog-link">
+        <div class="blog-card">
+            {% if item['main-image'] %}
+                {% assign folder_path = item.path | split: "/" | slice: 0, 2 | join: "/" %}
+                {% assign image_path = "/" | append: folder_path | append: item['main-image'] %}
+                <img src="{{ image_path }}" alt="{{ item.title }} image">
+            {% endif %}
+            <h3 class="blog-title">{{ item.title }}</h3>
+            <p class="blog-description">{{ item.description }}</p>
+            <button class="read-more">Read more →</button>
+        </div>
+    </a>
+{% endfor %}
+    </div>
+
+
+ </section>
